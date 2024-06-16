@@ -9,6 +9,14 @@ mainly bc of gui bs
 but enjoy ig
 
 (btw this is VERY buggy, so dont expect it to be like something myworld would make)
+
+
+
+
+NEW UPDATE:
+
+yeah ima stop working on this, im so fucking stressed over this so like
+im not getting rid of bugs and stuff cuz i'd rather hang out wit my friends 😌
 ]]
 -- imie his Gui to Lua
 -- Version: 1
